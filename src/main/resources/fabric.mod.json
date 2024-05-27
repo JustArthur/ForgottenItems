@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "forgottenitems",
+	"version": "${version}",
+	"name": "Forgotten Items",
+	"description": "Forgotten Items est un mod ajoutant des recetes d'objets vanilla.",
+	"authors": [
+		"su apt install Kuma"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/forgottenitems/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.suaptinstallkuma.forgottenitems.ForgottenItems"
+		],
+		"client": [
+			"net.suaptinstallkuma.forgottenitems.ForgottenItemsClient"
+		],
+		"fabric-datagen": [
+			"net.suaptinstallkuma.forgottenitems.ForgottenItemsDataGenerator"
+		]
+	},
+	"mixins": [
+		"forgottenitems.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
