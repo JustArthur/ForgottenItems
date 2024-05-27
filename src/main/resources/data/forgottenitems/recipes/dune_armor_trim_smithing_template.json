@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "DDD",
+    "***",
+    "DDD"
+  ],
+
+  "key": {
+    "*": { "item": "minecraft:end_stone" },
+    "D": { "item": "minecraft:diamond" },
+  },
+
+  "result": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  }
+}

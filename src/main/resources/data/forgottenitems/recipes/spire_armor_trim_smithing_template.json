@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "PPP",
+    "PDP",
+    "PPP"
+  ],
+
+  "key": {
+    "P": { "item": "minecraft:purpur_block" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
+}

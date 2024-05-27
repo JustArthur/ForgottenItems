@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "NND",
+    "DNN",
+    "NND"
+  ],
+
+  "key": {
+    "N": { "item": "minecraft:netherrack" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
+}

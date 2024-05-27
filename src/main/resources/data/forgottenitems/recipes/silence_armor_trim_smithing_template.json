@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "DDE",
+    "DSD",
+    "EDD"
+  ],
+
+  "key": {
+    "D": { "item": "minecraft:cobbled_deepslate" },
+    "E": { "item": "minecraft:echo_shard" },
+    "S": { "item": "minecraft:sculk_catalyst" }
+  },
+
+  "result": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
+}

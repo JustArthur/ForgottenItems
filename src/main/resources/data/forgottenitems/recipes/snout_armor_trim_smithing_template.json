@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "***",
+    "D*D",
+    "***"
+  ],
+
+  "key": {
+    "*": { "item": "minecraft:cobbled_deepslate" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  }
+}

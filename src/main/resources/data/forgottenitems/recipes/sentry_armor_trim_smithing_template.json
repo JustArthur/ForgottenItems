@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "***",
+    "*D*",
+    "***"
+  ],
+
+  "key": {
+    "*": { "item": "minecraft:stone" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

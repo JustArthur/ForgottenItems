@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "D**",
+    "*DD",
+    "*D*"
+  ],
+
+  "key": {
+    "*": { "item": "minecraft:stone" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  }
+}

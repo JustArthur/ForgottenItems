@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+
+  "ingredients": [
+    { "item": "minecraft:nether_star" },
+    { "item": "minecraft:spawner" }
+  ],
+
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+    "EDE",
+    "DED",
+    "EDE"
+  ],
+
+  "key": {
+    "E": { "item": "minecraft:end_stone" },
+    "D": { "item": "minecraft:diamond" }
+  },
+
+  "result": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  }
+}
